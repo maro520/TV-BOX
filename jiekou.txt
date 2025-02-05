@@ -5,7 +5,7 @@
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737765180601/feimao0125.jar;md5;1001eaf2f69c956086fe21dbdf1c78ed",
 "wallpaper":"http://ceshi.xn--z7x900a.com/ppic/feimao.php","logo":"http://ceshi.xn--z7x900a.com/panda/0262.png",
 "sites":[
-{"key":"drpy_js_豆瓣","name":"🐼┃备用公众号┃我不是肥猫","type":3,"api":"csp_Douban","searchable":0},
+{"key":"drpy_js_豆瓣","name":"🐼扳手影视","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣","name":"🐼┃豆瓣┃预告","type":3,"api":"csp_YGP","playerType":2,"searchable":0},
 {"key":"config","name":"🐼┃配置┃中心","type":3,"api":"csp_Config","playerType":2},
 {"key":"csp_FeiMaoUC","name":"⚡┃闪电┃优汐","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://1.95.79.193/"],"url_key":"FeiMaoUC"}},
@@ -60,7 +60,7 @@
 "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"},
 {"key":"高中","name":"📚┃高中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.597},
 "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"},
-{"key":"push_agent","name":"关注公众号：肥猫宝贝","type":3,"api":"csp_Push","playerType":"1","searchable":0,"ext":".json/txt/ken.txt"}
+{"key":"push_agent","name":"欧美哥","type":3,"api":"csp_Push","playerType":"1","searchable":0,"ext":".json/txt/ken.txt"}
 ],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
